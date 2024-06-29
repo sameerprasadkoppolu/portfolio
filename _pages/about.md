@@ -34,7 +34,7 @@ Technical Skills
 
 Technical Skills
 ======
-* **Pacers Sports & Entertainment** 
+* **Pacers Sports & Entertainment**  
   *Basketball Analytics Intern - Jan 2024 - May 2024 - Indianapolis, IN*
   * Designed a win probability model to analyze historical play-by-play data, team strength, and schedule strength to accurately predict match results for NBA teams with 60% accuracy.
   * Utilized the win probability model results to simulate the 2023-24 regular season 1000 times and break tiebreakers using a Dynamic Programming approach to showcase precise projected
