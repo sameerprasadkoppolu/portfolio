@@ -26,8 +26,8 @@ Education
 
 Technical Skills
 ======
-| Entry            | Item   |                                                              |
-| --------         | ------ | ------------------------------------------------------------ |
-| [John Doe](#)    | 2016   | Description of the item in the list                          |
-| [Jane Doe](#)    | 2019   | Description of the item in the list                          |
-| [Doe Doe](#)     | 2022   | Description of the item in the list                          |
+* **Programming Languages and Databases:** Python, R, SQL (MySQL, PostgreSQL Relational Databases), NoSQL (MongoDB), Azure Databricks
+* **Machine Learning Algorithms:** Regression, Classification, Dimensionality Reduction, Clustering, Association Rule Mining, Outlier Detection, Recommender Systems, Deep Learning, Neural Networks (ANN, CNN, RNN), Hypothesis Testing, Statistical Inference, Decision Trees, Random Forest, Support Vector Machines, Transformers
+* **Libraries:** Pandas, NumPy, SciPy, Sci-kit Learn, Tensorflow, Keras, NLTK, Gensim, PYOD, minisom, mlxtend, Tidyverse, dplyr, HuggingFace, PyTorch, SpaCy
+* **Analytics and Visualization:** Tableau, Power BI, SAP BI, Microsoft Excel, Matplotlib, Ggplot, Plotly, Seaborn, Microsoft PowerPoint
+* **Others:** Jupyter Notebooks, Google Colab, RStudio, Git, GitHub, Streamlit, Microsoft Office, Google Workspaces
