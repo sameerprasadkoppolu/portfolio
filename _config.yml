@@ -21,7 +21,7 @@ repository               : "sameerprasadkoppolu/portfolio"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile_pic.jpeg"
   name             : #""
   pronouns         : "He/Him"
   bio              : "MS Data Science @ Northeastern University | Former Basketball Analytics Intern @ Indiana Pacers | Aspiring Sports Data Scientist |"
