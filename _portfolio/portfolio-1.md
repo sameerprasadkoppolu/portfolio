@@ -6,7 +6,7 @@ collection: portfolio
 
 
 ## GitHub Repository:
-https://github.com/sameerprasadkoppolu/Group-12-IDMP-Project/tree/main
+[https://github.com/sameerprasadkoppolu/Group-12-IDMP-Project/tree/main]
 
 
 ## Introduction:
