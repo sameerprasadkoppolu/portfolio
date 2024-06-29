@@ -1,12 +1,12 @@
 ---
-title: "Indian Premier League (IPL) Win Predictor"
-excerpt: "Assessed accuracies of various classification models to predict the match results of the 2021-22 Indian Premier League (IPL) Season"
+title: "Next Word Wizard: LSTM Based Next Word Predictor"
+excerpt: "Conducted an Ablation Study to optimize hyperparameters for an LSTM Model trained on a corpus of News Articles for predicting the next word on a given input sequence of words"
 collection: portfolio
 ---
 
 
 ## GitHub Repository:
-[https://github.com/sameerprasadkoppolu/Group-12-IDMP-Project/tree/main]
+[Repository](https://github.com/sameerprasadkoppolu/Next-Word-Wizard-Group-18-NLP-Project-?tab=readme-ov-file)
 
 
 ## Introduction:
