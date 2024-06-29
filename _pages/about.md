@@ -31,3 +31,19 @@ Technical Skills
 * **Libraries:** Pandas, NumPy, SciPy, Sci-kit Learn, Tensorflow, Keras, NLTK, Gensim, PYOD, minisom, mlxtend, Tidyverse, dplyr, HuggingFace, PyTorch, SpaCy
 * **Analytics and Visualization:** Tableau, Power BI, SAP BI, Microsoft Excel, Matplotlib, Ggplot, Plotly, Seaborn, Microsoft PowerPoint
 * **Others:** Jupyter Notebooks, Google Colab, RStudio, Git, GitHub, Streamlit, Microsoft Office, Google Workspaces
+
+Technical Skills
+======
+* **Pacers Sports & Entertainment** 
+  *Basketball Analytics Intern - Jan 2024 - May 2024 - Indianapolis, IN*
+  * Designed a win probability model to analyze historical play-by-play data, team strength, and schedule strength to accurately predict match results for NBA teams with 60% accuracy.
+  * Utilized the win probability model results to simulate the 2023-24 regular season 1000 times and break tiebreakers using a Dynamic Programming approach to showcase precise projected
+  conference standings, playoff probabilities, and potential playoff opponents for each team on a live Power BI dashboard.
+  * Implemented 2 supervised machine learning models to forecast NBA skills including three-point shooting percentage and volume for NBA draft prospects by using player position, free-throw
+  accuracy, and shot locations and types of previously drafted players resulting in a 0.18 test RMSE.
+  * Created and Modified data-driven pre-game scouting reports on opposition teams in the 2023-24 NBA G League regular season for the Indiana Mad Ants.
+  * Assisted in the development of an internal Injury Database by scraping injury and missed game information and building an ER diagram to visualize the database.
+  * Developed a scalable pipeline architecture to scrape and ingest third party college ratings using ETL Processes, Azure Blob Storage, and Databricks, allowing for real-time updates to the internal
+  database.
+  * Technology Stack: Python, Sci-kit Learn, Power BI, SQL, Azure Databricks, Git, Synergy, Second Spectrum, Real GM
+
