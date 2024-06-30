@@ -57,18 +57,18 @@ Professional Experience
   responses and reducing manual anomaly detection by 80%
   * Technology Stack: Python, Sci-kit Learn, PYOD, mlxtend, minisom, KModes, Jupyter Notebooks
 
-* **NBA Sportswriter and Analyst - Essentially Sports**
+* **NBA Sportswriter and Analyst - Essentially Sports**  
   *Jan 2022 - Mar 2022 - India (Remote)*
   * Leveraged supervised (regression) and unsupervised machine-learning algorithms (clustering) to distill intricate player and team statistics into performance insights and data visualizations subsequently crafting over 250 articles resulting in 200% increase in readership and fan engagement.
   * Technology Stack: Python, Sci-kit Learn, Tableau
   
-* **Data Analysis and Visualization Intern - Globalshala**
+* **Data Analysis and Visualization Intern - Globalshala**  
   *Oct 2021 - Nov 2021 - India (Remote)*
   * Utilized PCA and K-Means Clustering analyses to pinpoint poorly performing social media campaigns resulting in 15% company expenditure decrease.
   * Generated $2M in savings by utilizing data-driven insights to reduce ad spend and streamline digital marketing operations.
   * Technology Stack: Python, Sci-kit Learn, Power BI
 
-* **SAP Consultant - Wipro Ltd**
+* **SAP Consultant - Wipro Ltd**  
   *Aug 2019 - May 2021 - Bengaluru, India*
   * Leveraged SAP CPM & BI tools to design the resource planning model for pre-sales teams to win client projects, cutting operational costs by $5M
   * Integrated CPM into other SAP modules in the ERP system to facilitate data exchange across across-functional teams and improve efficiency by 40% • Analyzed Wipro IP data to forecast trends and new sales opportunities by applying Time Series Analysis, resulting in 10% increase in total sales
