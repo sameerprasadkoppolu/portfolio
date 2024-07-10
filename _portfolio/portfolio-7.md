@@ -1,5 +1,5 @@
 ---
-title: "Finetuning For Dialogue/Chat Summarization"
+title: "Finetuning T5-Small For Dialogue/Chat Summarization"
 excerpt: "Finetuned the Google T5-Small Pretrained model for Dialogue Summarization using Samsung's SAMsum corpus of dialogues to resulting in an increase of 16 percentage points in the Test Sets' ROUGE-LSum score as compared to the Pre-Finetuned Model's Summaries."
 collection: portfolio
 ---
