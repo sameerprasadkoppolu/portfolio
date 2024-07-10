@@ -1,6 +1,6 @@
 ---
 title: "Finetuning For Dialogue/Chat Summarization"
-excerpt: "Finetuned the Google T5-Small Pretrained model to summarize dialogues/chat in Samsung's SAMsum corpus achieving a Test Set ROUGE-LSum score of 37.8"
+excerpt: "Finetuned the Google T5-Small Pretrained model for Dialogue Summarization using Samsung's SAMsum corpus of dialogues to resulting in an increase of 16 percentage points in the Test Sets' ROUGE-LSum score as compared to the Pre-Finetuned Model's Summaries."
 collection: portfolio
 ---
 
@@ -51,7 +51,7 @@ Here are the pre-finetuned model's summaries' ROUGE scores.
 
 ![image](https://github.com/sameerprasadkoppolu/portfolio/assets/40263744/52e2aaab-e41a-49bc-9ba4-9a23fefad77b)  
 
-**NOTE:** The ROUGE scores reported during training and evaluation are scaled by a factor of 100. 
+**NOTE:** The ROUGE scores reported during training and evaluation are scaled by a factor of 100 for a percentage represntation. 
 By default, the ROUGE scores obtained from the 'evaluate' library are all < 1, which is why the ROUGE scores on the test set are all less than 1. 
 (i.e. a ROUGE-LSum score of 0.3782 is the same as 37.82)
 
