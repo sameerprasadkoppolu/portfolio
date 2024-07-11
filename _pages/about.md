@@ -36,25 +36,19 @@ Professional Experience
 ======
 * **Basketball Analytics Intern - Pacers Sports & Entertainment**  
   *Jan 2024 - May 2024 - Indianapolis, IN*
-  * Designed a win probability model to analyze historical play-by-play data, team strength, and schedule strength to accurately predict match results for NBA teams with 60% accuracy.
-  * Utilized the win probability model results to simulate the 2023-24 regular season 1000 times and break tiebreakers using a Dynamic Programming approach to showcase precise projected
-  conference standings, playoff probabilities, and potential playoff opponents for each team on a live Power BI dashboard.
-  * Implemented 2 supervised machine learning models to forecast NBA skills including three-point shooting percentage and volume for NBA draft prospects by using player position, free-throw
-  accuracy, and shot locations and types of previously drafted players resulting in a 0.18 test RMSE.
-  * Created and Modified data-driven pre-game scouting reports on opposition teams in the 2023-24 NBA G League regular season for the Indiana Mad Ants.
-  * Assisted in the development of an internal Injury Database by scraping injury and missed game information and building an ER diagram to visualize the database.
-  * Developed a scalable pipeline architecture to scrape and ingest third party college ratings using ETL Processes, Azure Blob Storage, and Databricks, allowing for real-time updates to the internal
-  database.
+  * Engineered a win probability model to analyze historical play-by-play data, team strength, and schedule strength to accurately predict match results for NBA teams with 60% accuracy.
+  * Incorporated the win probability model results to simulate the 2023-24 regular season 1000 times and break tiebreakers using a Dynamic Programming approach to showcase precise projected conference standings, playoff probabilities, and potential playoff opponents for each team on a live Power BI dashboard.
+  * Implemented 2 supervised machine learning models to forecast three-point shooting percentage and volume of NBA draft prospects by analyzing player position, free throw accuracy, and shot locations and types of previously drafted players, resulting in a test RMSE of 0.18, thereby enabling draft prospect ranking.
+  * Created and Modified data-driven pre-game scouting reports on opposition teams in the 2023-24 NBA G League regular season for the Indiana Mad Ants thereby enhancing strategic game preparation resulting in a 3rd place regular season finish in the Eastern Conference of the NBA G League.
+  * Assisted in the development of an internal Injury Database by scraping over 10000 data points of injury and missed game information and building an ER diagram to visualize the database.
+  * Developed a scalable pipeline architecture to scrape and ingest third party college ratings using ETL Processes, Azure Blob Storage, and Databricks, allowing for real-time updates to the internal database.
   * Technology Stack: Python, Sci-kit Learn, Power BI, SQL, Azure Databricks, Git, Synergy, Second Spectrum, Real GM
 
 * **Data Science Intern - SaiX Inc.**  
   *Jun 2023 - Aug 2023 - United States (Remote)*
-  * Spearheaded the development of a cutting-edge solution for Peer Group Analysis use case of the SaiX Risk Engine Product utilizing 300k+ observations of categorical application request data with
-  Unsupervised ML models and Data Mining Techniques
-  * Employed FP Growth Algorithm with novel scoring function to create peer groups of users with similar application access with optimized choice of minimum support value obtained from
-  custom-built contamination measure thereby reducing false positive anomaly detection by 15%
-  * Implemented Isolation Forest algorithm on user identity information of users in peer groups based on similar application access to detect outliers, allowing for efficient prioritization of security
-  responses and reducing manual anomaly detection by 80%
+  * Spearheaded the development of a cutting-edge solution for Peer Group Analysis use case of the SaiX Risk Engine Product utilizing 300k+ observations of categorical application request data with Unsupervised ML models and Data Mining Techniques.
+  * Employed FP Growth Algorithm with novel scoring function to create peer groups of users with similar application access with optimized choice of minimum support value obtained from custom-built contamination measure thereby reducing false positive anomaly detection by 15%
+  * Implemented Isolation Forest algorithm on user identity information of users in peer groups based on similar application access to detect outliers, allowing for efficient prioritization of security responses and reducing manual anomaly detection by 80%
   * Technology Stack: Python, Sci-kit Learn, PYOD, mlxtend, minisom, KModes, Jupyter Notebooks
 
 * **NBA Sportswriter and Analyst - Essentially Sports**  
@@ -62,7 +56,7 @@ Professional Experience
   * Leveraged supervised (regression) and unsupervised machine-learning algorithms (clustering) to distill intricate player and team statistics into performance insights and data visualizations subsequently crafting over 250 articles resulting in 200% increase in readership and fan engagement.
   * Technology Stack: Python, Sci-kit Learn, Tableau
   
-* **Data Analysis and Visualization Intern - Globalshala**  
+* **Data Analysis and Visualization Intern - GlobalShala**  
   *Oct 2021 - Nov 2021 - India (Remote)*
   * Utilized PCA and K-Means Clustering analyses to pinpoint poorly performing social media campaigns resulting in 15% company expenditure decrease.
   * Generated $2M in savings by utilizing data-driven insights to reduce ad spend and streamline digital marketing operations.
@@ -70,8 +64,9 @@ Professional Experience
 
 * **SAP Consultant - Wipro Ltd**  
   *Aug 2019 - May 2021 - Bengaluru, India*
-  * Leveraged SAP CPM & BI tools to design the resource planning model for pre-sales teams to win client projects, cutting operational costs by $5M
-  * Integrated CPM into other SAP modules in the ERP system to facilitate data exchange across across-functional teams and improve efficiency by 40% • Analyzed Wipro IP data to forecast trends and new sales opportunities by applying Time Series Analysis, resulting in 10% increase in total sales
-  * Constructed the target revenue feature design for pre-sales teams to forecast discounts needed to win customer projects leading to 3% rise in sales
+  * Leveraged SAP CPM & BI tools to design the resource planning model for pre-sales teams to win client projects, cutting operational costs by $5M.
+  * Integrated CPM into other SAP modules in the ERP system to facilitate data exchange across across-functional teams and improve efficiency by 40%
+  * Applied Time Series analysis techniques to forecast trends and new sales opportunities of Wipro IP resources, resulting in a 10% increase in total sales.
+  * Constructed the target revenue feature design for pre-sales teams to forecast discounts needed to win customer projects leading to 3% rise in sales.
   * Technology Stack: SAP CPM, SAP BI
 
