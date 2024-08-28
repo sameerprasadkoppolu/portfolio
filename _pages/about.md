@@ -13,6 +13,8 @@ I started my career at Wipro Ltd as an SAP Consultant, contributing to essential
 
 In the Summer of 2023, I interned at SaiX, where I developed a Proof of Concept for Peer Group Analysis using unsupervised ML and data mining techniques. In 2024, I joined the Indiana Pacers as a Basketball Analytics Intern, contributing to an in-house win projection system and building a model to project three-point shooting performance for NBA Draft prospects.
 
+Apart from my professional experience, I have also developed a working knowledge of machine learning concepts through projects covering a variety of use cases across different domains that you can take a look at in the Portfolio section of this website. More recently, I contributed to the building of a Retrieval Augmented Generation System (RAG) that helps users get answers to questions on USCIS policies and procedures.
+
 With a robust skill set in data science and experience across various domains, I am dedicated to uncovering insights and creating value through data. My strong analytical abilities, hands-on experience with machine learning, and passion for problem-solving make me a great fit for a Data Science role. I am committed to using my expertise to drive impactful solutions and support data-driven decision-making in any organization.
 
 Education
