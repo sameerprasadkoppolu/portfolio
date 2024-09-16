@@ -21,16 +21,18 @@ Education
 ======
 * **NORTHEASTERN UNIVERSITY**, Boston, USA  
   *Master of Science in Data Science (Expected Dec 2024)*  
-  Related Courses: Supervised Machine Learning, Natural Language Processing (NLP), Data Structures and Algorithms, Database Management Systems (DBMS), Data Management and Processing (Data   Standardization, Statistical Modeling), Data Mining and Unsupervised Machine Learning, Large Language Models (LLMs)
+  * **Related Courses:** Supervised Machine Learning, Natural Language Processing (NLP), Data Structures and Algorithms, Database Management Systems (DBMS), Data Management and Processing (Data   Standardization, Statistical Modeling), Data Mining and Unsupervised Machine Learning, Large Language Models (LLMs)  
+  * **Graduate Teaching Assistant** - DS 5983 Large Language Models (LLMs) at Khoury College of Computer Sciences
+    
 * **MANIPAL INSTITUTE OF TECHNOLOGY (MAHE)**, Manipal, India  
   *Bachelor of Technology in Electronics and Communication Engineering (Completed Jul 2019)*  
-  Related Courses: Inferential Statistics, Linear Algebra, Calculus, IoT, Digital Marketing (Minor)
+  * **Related Courses:** Inferential Statistics, Linear Algebra, Calculus, IoT, Digital Marketing (Minor)
 
 Technical Skills
 ======
-* **Programming Languages and Databases:** Python, R, SQL (MySQL, PostgreSQL Relational Databases), NoSQL (MongoDB), Azure Databricks
+* **Programming Languages and Databases:** Python, R, SQL (MySQL, PostgreSQL Relational Databases), NoSQL (MongoDB), Azure Databricks, Vector Databases (Pinecone)
 * **Machine Learning Algorithms:** Regression, Classification, Dimensionality Reduction, Clustering, Association Rule Mining, Outlier Detection, Recommender Systems, Deep Learning, Neural Networks (ANN, CNN, RNN), Hypothesis Testing, Statistical Inference, Decision Trees, Random Forest, Support Vector Machines, Transformers
-* **Libraries:** Pandas, NumPy, SciPy, Sci-kit Learn, Tensorflow, Keras, NLTK, Gensim, PYOD, minisom, mlxtend, Tidyverse, dplyr, HuggingFace, PyTorch, SpaCy
+* **Libraries:** Llama Index, Pandas, NumPy, SciPy, Scikit-Learn, Tensorflow, Keras, NLTK, Gensim, PYOD, minisom, mlxtend, Tidyverse, dplyr, HuggingFace, PyTorch, SpaCy
 * **Analytics and Visualization:** Tableau, Power BI, SAP BI, Microsoft Excel, Matplotlib, Ggplot, Plotly, Seaborn, Microsoft PowerPoint
 * **Others:** Jupyter Notebooks, Google Colab, RStudio, Git, GitHub, Streamlit, Microsoft Office, Google Workspaces
 
@@ -44,25 +46,25 @@ Professional Experience
   * Created and Modified data-driven pre-game scouting reports on opposition teams in the 2023-24 NBA G League regular season for the Indiana Mad Ants thereby enhancing strategic game preparation resulting in a 3rd place regular season finish in the Eastern Conference of the NBA G League.
   * Assisted in the development of an internal Injury Database by scraping over 10000 data points of injury and missed game information and building an ER diagram to visualize the database.
   * Developed a scalable pipeline architecture to scrape and ingest third party college ratings using ETL Processes, Azure Blob Storage, and Databricks, allowing for real-time updates to the internal database.
-  * Technology Stack: Python, Sci-kit Learn, Power BI, SQL, Azure Databricks, Git, Synergy, Second Spectrum, Real GM
+  * Technology Stack: Python, Scikit-Learn, Power BI, SQL, Azure Databricks, Git, Synergy, Second Spectrum, Real GM
 
 * **Data Science Intern - SaiX Inc.**  
   *Jun 2023 - Aug 2023 - United States (Remote)*
   * Spearheaded the development of a cutting-edge solution for Peer Group Analysis use case of the SaiX Risk Engine Product utilizing 300k+ observations of categorical application request data with Unsupervised ML models and Data Mining Techniques.
   * Employed FP Growth Algorithm with novel scoring function to create peer groups of users with similar application access with optimized choice of minimum support value obtained from custom-built contamination measure thereby reducing false positive anomaly detection by 15%
   * Implemented Isolation Forest algorithm on user identity information of users in peer groups based on similar application access to detect outliers, allowing for efficient prioritization of security responses and reducing manual anomaly detection by 80%
-  * Technology Stack: Python, Sci-kit Learn, PYOD, mlxtend, minisom, KModes, Jupyter Notebooks
+  * Technology Stack: Python, Scikit-Learn, PYOD, mlxtend, minisom, KModes, Jupyter Notebooks
 
 * **NBA Sportswriter and Analyst - Essentially Sports**  
   *Jan 2022 - Mar 2022 - India (Remote)*
   * Leveraged supervised (regression) and unsupervised machine-learning algorithms (clustering) to distill intricate player and team statistics into performance insights and data visualizations subsequently crafting over 250 articles resulting in 200% increase in readership and fan engagement.
-  * Technology Stack: Python, Sci-kit Learn, Tableau
+  * Technology Stack: Python, Scikit-Learn, Tableau
   
 * **Data Analysis and Visualization Intern - GlobalShala**  
   *Oct 2021 - Nov 2021 - India (Remote)*
   * Utilized PCA and K-Means Clustering analyses to pinpoint poorly performing social media campaigns resulting in 15% company expenditure decrease.
   * Generated $2M in savings by utilizing data-driven insights to reduce ad spend and streamline digital marketing operations.
-  * Technology Stack: Python, Sci-kit Learn, Power BI
+  * Technology Stack: Python, Scikit-Learn, Power BI
 
 * **SAP Consultant - Wipro Ltd**  
   *Aug 2019 - May 2021 - Bengaluru, India*
