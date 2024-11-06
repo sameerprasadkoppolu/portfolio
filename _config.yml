@@ -24,11 +24,12 @@ author:
   avatar           : "profile_pic.jpeg"
   name             : #""
   pronouns         : "He/Him"
-  bio              : "MS Data Science @ Northeastern University | Former Basketball Analytics Intern @ Indiana Pacers | Aspiring Sports Data Scientist |"
+  bio              : "MS Data Science @ Northeastern University | Python, SQL, Machine Learning, LLMs | Former Basketball Analytics Intern @ Indiana Pacers | Aspiring Sports Data Scientist"
   location         : "Boston, MA"
   employer         : "Northeastern University"
-  uri              : "koppolu.s@northeastern.edu" 
+  uri              : #""
   email            : "koppolusameerja@gmail.com"
+  alternate email  : "koppolu.s@northeastern.edu"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
