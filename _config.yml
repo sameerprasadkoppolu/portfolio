@@ -27,9 +27,8 @@ author:
   bio              : "MS Data Science @ Northeastern University | Former Basketball Analytics Intern @ Indiana Pacers | Aspiring Sports Data Scientist |"
   location         : "Boston, MA"
   employer         : "Northeastern University"
-  uri              : # URL
-  email            : "koppolusameerja@gmail.com" 
-  email            : "koppolu.s@northeastern.edu" 
+  uri              : "koppolu.s@northeastern.edu" 
+  email            : "koppolusameerja@gmail.com"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
