@@ -1,6 +1,6 @@
 ---
 title: "Finetuning T5-Small For Dialogue/Chat Summarization"
-excerpt: "Finetuned the Google T5-Small Pretrained model for Dialogue Summarization using Samsung's SAMsum corpus of dialogues to resulting in an increase of 16 percentage points in the Test Sets' ROUGE-LSum score as compared to the Pre-Finetuned Model's Summaries."
+excerpt: "Finetuned Google T5-Small Pretrained model for Dialogue Summarization using Samsung's SAMsum corpus of dialogues to resulting in an increase of 16 percentage points in the Test Sets' ROUGE-LSum score as compared to the Pre-Finetuned Model's Summaries."
 collection: portfolio
 ---
 
@@ -53,7 +53,21 @@ Here are the pre-finetuned model's summaries' ROUGE scores.
 
 **NOTE:** The ROUGE scores reported during training and evaluation are scaled by a factor of 100 for a percentage represntation. 
 By default, the ROUGE scores obtained from the 'evaluate' library are all < 1, which is why the ROUGE scores on the test set are all less than 1. 
-(i.e. a ROUGE-LSum score of 0.3782 is the same as 37.82)
+(i.e. a ROUGE-LSum score of 0.3782 is the same as 37.82)  
+
+## LoRA vs Full Finetuning:  
+For the purpose of comparison on finetuning procedures - the Base version of the [Flan T5](https://huggingface.co/docs/transformers/model_doc/flan-t5) model was finetuned using LoRA and full-finetuning  on the [DialogSum](https://huggingface.co/datasets/knkarthick/dialogsum) dataset for ROUGE score improvements on dialogue summarization.  
+
+Both LoRA and full-finetuning were performed for a single epoch. The improvement in ROUGE scores via LoRA when compared to the pre-finetuned model were as follows
+![image](https://github.com/user-attachments/assets/d10430ce-5777-41bb-b646-517333b53564)  
+
+The ROUGE score improvements via full-finetuning were then compared to the results obtained from finetuning via LoRA  
+![image](https://github.com/user-attachments/assets/8f2a1107-c4a0-4f03-b930-6ca208186a1a)  
+
+The actual ROUGE scores for the pre-finetuned model, the LoRA model, and the fully-finetuned model are as follows  
+![image](https://github.com/user-attachments/assets/fdd70cbe-50cf-444d-8564-74c1b4ea1c6d)  
+
+**NOTE:** The 'instruct model' indicated above is the fully-finetuned model and the 'PEFT model' indicated above the LoRA model
 
 
 
