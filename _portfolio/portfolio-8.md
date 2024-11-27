@@ -8,6 +8,10 @@ collection: portfolio
 ## Links:
 [Repository](https://github.com/sameerprasadkoppolu/VisaWise_DS5983)  
 
+## Done in Collaboration With:  
+* [Divya Hegde](https://www.linkedin.com/in/hegdedivya/)
+* [Raghav Gali](https://www.linkedin.com/in/raghavgali/)
+
 ## Introduction:
 This project addresses the challenge faced by international students on F-1/J-1 visas in the US, who often struggle with understanding the complex rules and procedures set forth by the United Stats Citizenship and Immigration Services (USCIS). To alleviate this issue, we developed a chatbot using Retrieval-Augmented Generation (RAG). The chatbot provides accurate and accessible information, simplifying the understanding of visa regulations. The results show improved user comprehension and reduced anxiety, enhancing the overall experience for international students navigating the US visa system. Furthermore, the RAG based chatbot is able to answer questions on topics such as Green Card, H-1B, Request for Evidence (RFE), and the O Visa.
 
