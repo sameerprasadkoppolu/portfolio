@@ -22,12 +22,12 @@ To get in touch, please email me at [koppolusameerja@gmail.com](mailto:koppolusa
 Education
 ======
 * **NORTHEASTERN UNIVERSITY**, Boston, USA  
-  *Master of Science in Data Science (Expected Dec 2024)*  
+  *Master of Science in Data Science (Sep 2022 - Dec 2024)*  
   * **Related Courses:** Supervised Machine Learning, Natural Language Processing (NLP), Data Structures and Algorithms, Database Management Systems (DBMS), Data Management and Processing (Data   Standardization, Statistical Modeling), Data Mining and Unsupervised Machine Learning, Large Language Models (LLMs)  
   * **Graduate Teaching Assistant** - DS 5983 Large Language Models (LLMs) at Khoury College of Computer Sciences
     
 * **MANIPAL INSTITUTE OF TECHNOLOGY (MAHE)**, Manipal, India  
-  *Bachelor of Technology in Electronics and Communication Engineering (Completed Jul 2019)*  
+  *Bachelor of Technology in Electronics and Communication Engineering (Jul 2015 - Jul 2019)*  
   * **Related Courses:** Inferential Statistics, Linear Algebra, Calculus, IoT, Digital Marketing (Minor)
 
 Technical Skills
