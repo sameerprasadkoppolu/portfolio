@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm Sameer Koppolu, a Master's student in Data Science at Northeastern University. With a diverse background in SAP consulting, data analysis, sports writing, and basketball analytics, I aim to leverage data to uncover insights, tell stories, and drive value.
+I'm Sameer Koppolu, an Advanced Analytics Associate at KAGR with a Master's degree in Data Science from Northeastern University. With a diverse background in SAP consulting, data analysis, sports writing, and basketball analytics, I aim to leverage data to uncover insights, tell stories, and drive value.
 
 I started my career at Wipro Ltd as an SAP Consultant, contributing to essential components in the ERP system upgrade. This role sparked my interest in data-driven decision-making, leading me to a Data Analyst position at Globalshala, where I evaluated social media marketing campaigns. My passion for sports also saw me penning articles as a Sports Writer at Essentially Sports.
 
@@ -40,6 +40,10 @@ Technical Skills
 
 Professional Experience
 ======
+* **Advanced Analytics Associate - Kraft Analytics Group (KAGR) LLC.**  
+  *Apr 2025 - Present - Foxborough, MA*
+  
+
 * **Basketball Analytics Intern - Pacers Sports & Entertainment**  
   *Jan 2024 - May 2024 - Indianapolis, IN*
   * Engineered a win probability model to analyze historical play-by-play data, team strength, and schedule strength to accurately predict match results for NBA teams with 60% accuracy.
