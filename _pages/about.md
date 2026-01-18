@@ -45,7 +45,7 @@ Professional Experience
   * Segmented a 3.2M client fanbase into Personas created using Snowflake SQL, Python, and Clustering applied on fan behavior across multiple data sources including Ticketing, Retail, and Marketing to develop tailored fan journeys to boost single-game ticket sales.
   * Constructed a Pricing Model and tool for Premium Ticketing Products for combat sporting events by utilizing historical ticket sales, athlete fan popularity, and macroeconomic geographical factors using FLAML AutoML to boost product sell-thru rates across a range of venues and event categories.
   * Engineered a Customer Lifecycle Value model to using ticketing behavior, customer demographics, and CRM activity to enable a client better target fans for ticket sales and upgrades by accurately predicting season ticket member retention and customer segment upgrades and downgrades enabling over $10M in revenue generation from ticket sales.
-  * Technology Stack: Python, Snowflake SQL, FLAML AutoML, Scikit-Learn, SHAP, Bitbucket, 
+  * Technology Stack: Python, Snowflake SQL, FLAML AutoML, Scikit-Learn, SHAP, Bitbucket
   
 
 * **Basketball Analytics Intern - Pacers Sports & Entertainment**  
