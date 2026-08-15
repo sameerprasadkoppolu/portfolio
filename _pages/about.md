@@ -7,17 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I'm Sameer Koppolu, an Advanced Analytics Associate at KAGR with a Master's degree in Data Science from Northeastern University. With a diverse background in SAP consulting, data analysis, sports writing, and basketball analytics, I aim to leverage data to uncover insights, tell stories, and drive value.
+I'm Sameer Koppolu, an Advanced Analytics Associate at the Kraft Analytics Group (KAGR) where I use Data Science and Machine Learning techniques to help professional sports organizations improve their fan engagement and revenue. Apart from Sports Business Analytics, I have built solutions on the performance side of sports - most recently with the Indiana Pacers, where I build a Draft Prospect performance projection model, and a Win Probability model with simulations and a Playoff Probability Report. My goal is leverage Data Science, Machine Learning, and AI to solve problems in Sports with explainable solutions to drive change.
 
-I started my career at Wipro Ltd as an SAP Consultant, contributing to essential components in the ERP system upgrade. This role sparked my interest in data-driven decision-making, leading me to a Data Analyst position at Globalshala, where I evaluated social media marketing campaigns. My passion for sports also saw me penning articles as a Sports Writer at Essentially Sports.
-
-In the Summer of 2023, I interned at SaiX, where I developed a Proof of Concept for Peer Group Analysis using unsupervised ML and data mining techniques. In 2024, I joined the Indiana Pacers as a Basketball Analytics Intern, contributing to an in-house win projection system and building a model to project three-point shooting performance for NBA Draft prospects.
-
-Apart from my professional experience, I have also developed a working knowledge of machine learning concepts through projects covering a variety of use cases across different domains that you can take a look at in the Portfolio section of this website. More recently, I contributed to the building of a Retrieval Augmented Generation System (RAG) that helps users get answers to questions on USCIS policies and procedures.
-
-With a robust skill set in data science and experience across various domains, I am dedicated to uncovering insights and creating value through data. My strong analytical abilities, hands-on experience with machine learning, and passion for problem-solving make me a great fit for a Data Science role. I am committed to using my expertise to drive impactful solutions and support data-driven decision-making in any organization.
-
-To get in touch, please email me at [koppolusameerja@gmail.com](mailto:koppolusameerja@gmail.com) or at [koppolu.s@northeastern.edu](mailto:koppolu.s@northeastern.edu)
+To get in touch, please email me at [koppolusameerja@gmail.com](mailto:koppolusameerja@gmail.com) or at [koppolu.s@northeastern.edu](mailto:koppolu.s@northeastern.edu). You can read about my professional career so far below.
 
 Education
 ======
