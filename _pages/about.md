@@ -11,5 +11,5 @@ I'm Sameer Koppolu, an Advanced Analytics Associate at the Kraft Analytics Group
 
 To get in touch, please email me at [koppolusameerja@gmail.com](mailto:koppolusameerja@gmail.com) or at [koppolu.s@northeastern.edu](mailto:koppolu.s@northeastern.edu). 
 
-You can read about my Profession Journey in the Resume tab or download my Resume using this link - 
+You can read about my Profession Journey in the Resume tab or download my Resume [here](https://drive.google.com/file/d/12vWkmlJ3MdEexcgJazu20_RwasY7TvJc/view?usp=sharing)
 If you'd like to go into greater detail on my projects, go to the Portfolio tab!
