@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Resume"
-permalink: /cv/
+permalink: /resume/
 author_profile: true
 redirect_from:
   - /resume
@@ -73,4 +73,3 @@ Professional Experience
   * Applied Time Series analysis techniques to forecast trends and new sales opportunities of Wipro IP resources, resulting in a 10% increase in total sales.
   * Constructed the target revenue feature design for pre-sales teams to forecast discounts needed to win customer projects leading to 3% rise in sales.
   * Technology Stack: SAP CPM, SAP BI
-* Currently signed in to 43 different slack teams
